@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Experiences & Tours",
+    "image": "/images/Home/bloga.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur elie Duis sit."
+  },
+  {
+    "title": "Destinations",
+    "image": "/images/Home/blogb.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur elie Duis sit."
+  },
+  {
+    "title": "Activities and Attractions",
+    "image": "/images/Home/blogc.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur elie Duis sit."
+  },
+  {
+    "title": "Itineraries",
+    "image": "/images/Home/blogd.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur elie Duis sit."
+  }
+]

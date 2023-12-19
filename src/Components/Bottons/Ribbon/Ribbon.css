@@ -1,0 +1,62 @@
+.ribbon {
+  background: #fc8233;
+  display: inline-block;
+  padding: 2px 40px 2px 20px;
+  color: white;
+  position: relative;
+  left: -13px;
+  top: 25px;
+}
+
+.ribbon:after {
+  content: "";
+  width: 0;
+  height: 0;
+  top: 0;
+  position: absolute;
+  left: 0px;
+  border-top: 20px solid transparent;
+  border-bottom: 20px solid transparent;
+}
+
+.ribbon:before {
+  height: 0;
+  width: 0;
+  border-top: 15px solid #fc8233;
+  border-left: 15px solid transparent;
+  bottom: -14px;
+  position: absolute;
+  content: "";
+  left: 0;
+}
+
+.ribbon-name-first {
+  color: #fff;
+  font-size: 25.013px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.25px;
+padding-left: 3px;
+}
+
+.ribbon-name-second {
+  color: #fff;
+  font-size: 32.159px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  letter-spacing: 0.322px;
+  text-align: center;
+  padding-left: 4px;
+}
+
+.ribbon-name-third {
+  color: #fff;
+  font-size: 25.013px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.25px;
+  padding-left: 3px;
+}

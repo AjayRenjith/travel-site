@@ -1,0 +1,58 @@
+.deals-main{
+    padding-bottom: 30px;
+    width: 93%;
+}
+
+.deals-card-title{
+padding-top: 5px;
+color: #1D1D1F;
+font-size: 28px;
+font-style: normal;
+font-weight: 600;
+line-height: 120%; 
+}
+
+.deals-card-parag{
+       padding-top: 10px; 
+}
+
+.deals-card-parag-first{
+    color: #1D1D1F;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 110%; 
+}
+
+.deals-card-parag-second{
+    color: #1D1D1F;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 110%;
+}
+
+.deals-card-parag-third{
+    color: #1D1D1F;
+    font-size: 13.215px;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+.deals-card-parag-fourth{
+    color: #1D1D1F;
+    font-size: 13.215px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 110%;
+    text-transform: capitalize;
+}
+
+.deals-card-parag-fifth{
+    color: #1D1D1F;
+    font-size: 13.215px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 110%;
+}

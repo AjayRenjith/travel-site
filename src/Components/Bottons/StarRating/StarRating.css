@@ -1,0 +1,9 @@
+.star-ratings{
+ width: 17%;
+ background: var(--apple-style-just-white, #FFF);
+ border-radius: 6.607px;
+ padding: 4.405px 8.81px;
+justify-content: center;
+align-items: center;
+gap: 3.405px;
+}

@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Ranu Kumbolo",
+      "image": "ofr-1.png",
+      "location": "Tai, Malai"
+    },
+    {
+      "id": 2,
+      "name": "Ranu",
+      "image": "ofr-2.png",
+      "location": "Jammu, India"
+    },
+    {
+      "id": 3,
+      "name": "Ladakh",
+      "image": "ofr-4.png",
+      "location": "Mysore, Hill"
+    },
+    {
+      "id": 4,
+      "name": "Kashmiri",
+      "image": "ofr-2.png",
+      "location": "Himalaya, Himanchal"
+    },
+    {
+      "id": 5,
+      "name": "Manipur",
+      "image": "ofr-3.png",
+      "location": "Hawai, Hostog"
+    },
+    {
+      "id": 6,
+      "name": "Mosilla",
+      "image": "ofr-1.png",
+      "location": "Jumang, Farden"
+    },
+    {
+      "id": 7,
+      "name": "Mexico",
+      "image": "ofr-3.png",
+      "location": "Lumani, Jawar"
+    },
+    {
+      "id": 8,
+      "name": "Ramapuram",
+      "image": "ofr-2.png",
+      "location": "Kerala, Kottayam"
+    },
+    {
+      "id": 9,
+      "name": "Idukki",
+      "image": "ofr-3.png",
+      "location": "Idukki, Kerala"
+    },
+    {
+      "id": 10,
+      "name": "Shivansh",
+      "image": "ofr-2.png",
+      "location": "Bangalore, Karnataka"
+    }
+  ]
+  

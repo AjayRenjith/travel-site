@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Section 1",
+    "description": "Description 1",
+    "image": "images/Home/plan-one.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Section 2",
+    "description": "Description 2",
+    "image": "images/Home/plan-one.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Section 3",
+    "description": "Description 3",
+    "image": "images/Home/plan-one.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Section 4",
+    "description": "Description 4",
+    "image": "images/Home/plan-one.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Section 5",
+    "description": "Description 5",
+    "image": "images/Home/plan-one.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Section 6",
+    "description": "Description 6",
+    "image": "images/Home/plan-one.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "Section 7",
+    "description": "Description 7",
+    "image": "images/Home/plan-one.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Section 8",
+    "description": "Description 8",
+    "image": "images/Home/plan-one.jpeg"
+  }
+]

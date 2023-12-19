@@ -1,0 +1,16 @@
+{
+  "mainContent": {
+    "title": "Start your journey by one click, explore beautiful world!",
+    "description": "Plan and book your perfect trip with expert advice, travel tips, destination information and inspiration from us!"
+  },
+  "cardOne": {
+    "image": "images/Home/journey-card-one.jpeg",
+    "title": "Explore Labuan Bajo",
+    "location": "NTT, Indonesia"
+  },
+  "cardTwo": {
+    "image": "images/Home/journey-card-one.jpeg",
+    "title": "Explore Labuan Bajo",
+    "location": "NTT, Indonesia"
+  }
+}

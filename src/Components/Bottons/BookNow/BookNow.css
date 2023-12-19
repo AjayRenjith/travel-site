@@ -1,0 +1,23 @@
+.book-now {
+  border: none;
+  font-size: 16px;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  padding: 8.81px 53px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8.81px;
+  background: var(--apple-style-black-for-texts, #1d1d1f);
+
+  color: var(--apple-style-just-white, #fff);
+  font-size: 13.215px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+}
+
+.book-now:hover {
+  opacity: 0.8;
+}

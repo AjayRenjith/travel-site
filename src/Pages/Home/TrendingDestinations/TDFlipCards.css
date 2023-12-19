@@ -1,0 +1,32 @@
+.scene {
+  display: inline-block;
+}
+
+.card-tfc {
+  position: relative;
+  box-shadow: 0px 4px 4px 0px #00000040;
+  border-radius: 15px;
+  cursor: pointer;
+  transform-style: preserve-3d;
+  transition: transform 1s;
+}
+
+.card__face {
+  backface-visibility: hidden;
+}
+
+.card-tfc .card-back {
+  transform: rotateY(180deg);
+}
+
+.card-heading-tdf {
+  color: #121212;
+  font-size: 15px;
+  font-weight: 800;
+}
+
+.card-text-tdf {
+  color: #6f7789;
+  font-size: 14px;
+  font-weight: 300;
+}

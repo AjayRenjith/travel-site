@@ -1,0 +1,72 @@
+.footer-link-links h4 {
+  color: black;
+  font-weight: 600;
+  font-size: 20px;
+  padding-bottom: 15px;
+}
+
+.footer-link-links a {
+  color: #000000;
+  font-size: 16px;
+}
+
+.footer-link-links p {
+  color: #000000;
+  font-size: 14px;
+  padding-bottom: 8px;
+}
+
+.sm-icons-footer{
+    padding-top: 20px;
+}
+
+/* footer-form */
+
+.footer-form-container {
+    padding: 50px 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-image: url("/public/images/Home/footer-form.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    width: 300px;
+    height: 400px;
+    position: relative;
+    bottom: 20px;
+   }
+   
+   .footer-form-container h4 {
+    margin-bottom: 15px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 20px;
+   }
+   
+   .footer-form-container p {
+    margin-bottom: 15px;
+    color: #FFFFFF;
+    font-size: 12px;
+   }
+   
+   .footer-form-container input[type="text"],
+   .footer-form-container input[type="tel"] {
+    margin-bottom: 15px;
+    padding: 8px 10px;
+    width: 100%;
+    max-width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 11px;
+    height: 45px;
+   }
+
+   .footer-form-container input::placeholder{
+    font-size: 12px;
+    position: relative;
+    bottom: 10px;
+   }
+
+.footer-form-text p{
+font-size: 10px;
+}
+   

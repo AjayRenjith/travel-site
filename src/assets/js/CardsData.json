@@ -1,0 +1,71 @@
+[
+    {
+      "title": "All in New York City",
+      "location": {
+        "from": "India",
+        "to": "New York, USA"
+      },
+      "description": "Explore New York City with confidence with an exclusive travel guide by Co-Travel.",
+      "duration": "3 days 2 nights",
+      "peopleJoined": "12 Peoples have joined",
+      "imageSrc": "images/Home/Big-image.png"
+    },
+    {
+        "title": "All in New York City",
+        "location": {
+          "from": "India",
+          "to": "New York, USA"
+        },
+        "description": "Explore New York City with confidence with an exclusive travel guide by Co-Travel.",
+        "duration": "3 days 2 nights",
+        "peopleJoined": "12 Peoples have joined",
+        "imageSrc": "images/Home/Big-image.png"
+      },
+
+      {
+        "title": "All in New York City",
+        "location": {
+          "from": "India",
+          "to": "New York, USA"
+        },
+        "description": "Explore New York City with confidence with an exclusive travel guide by Co-Travel.",
+        "duration": "3 days 2 nights",
+        "peopleJoined": "12 Peoples have joined",
+        "imageSrc": "images/Home/Big-image.png"
+      },
+
+      {
+        "title": "All in New York City",
+        "location": {
+          "from": "India",
+          "to": "New York, USA"
+        },
+        "description": "Explore New York City with confidence with an exclusive travel guide by Co-Travel.",
+        "duration": "3 days 2 nights",
+        "peopleJoined": "12 Peoples have joined",
+        "imageSrc": "images/Home/Big-image.png"
+      },
+      {
+        "title": "All in New York City",
+        "location": {
+          "from": "India",
+          "to": "New York, USA"
+        },
+        "description": "Explore New York City with confidence with an exclusive travel guide by Co-Travel.",
+        "duration": "3 days 2 nights",
+        "peopleJoined": "12 Peoples have joined",
+        "imageSrc": "images/Home/Big-image.png"
+      },
+      {
+        "title": "All in New York City",
+        "location": {
+          "from": "India",
+          "to": "New York, USA"
+        },
+        "description": "Explore New York City with confidence with an exclusive travel guide by Co-Travel.",
+        "duration": "3 days 2 nights",
+        "peopleJoined": "12 Peoples have joined",
+        "imageSrc": "images/Home/Big-image.png"
+      }
+  ]
+  

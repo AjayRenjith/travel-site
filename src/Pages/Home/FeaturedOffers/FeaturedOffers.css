@@ -1,0 +1,11 @@
+.featured-heading h5
+h6 {
+  color: white;
+  font-weight: 650;
+}
+
+.featured-flex-container {
+  position: relative;
+  top: 20%;
+  padding: 7%;
+}

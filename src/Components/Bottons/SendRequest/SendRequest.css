@@ -1,0 +1,14 @@
+.send-request-btn button[type="submit"] {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 11px;
+    background-color: #FF881B;
+    color: #ffffff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+   }
+   
+   .send-request-btn button[type="submit"]:hover {
+    background-color: #fcc088;
+   }

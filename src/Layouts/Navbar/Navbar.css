@@ -1,0 +1,116 @@
+.navbar-container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.navbar-fixed-top {
+  padding-top: 2%;
+}
+
+.navbar-nav li {
+  padding: 0px 10px 0px 10px;
+}
+
+.nav {
+  width: 100%;
+  height: 75px;
+  text-align: center;
+  filter: drop-shadow(0 10px 8px rgba(0, 0, 0, 0.1));
+  background-color: transparent;
+  transition: background-color 0.5s ease;
+  z-index: 1;
+}
+
+.nav:hover {
+  background-color: #fff;
+}
+
+.navbar-collapse,
+.navbar-nav li {
+  display: flex;
+}
+
+.navbar-brand img {
+  position: relative;
+  left: 30px;
+  width: 80%;
+  height: auto;
+}
+
+.nav-link {
+  color: #004051 !important;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  transition: font-weight 0.3s ease;
+}
+
+.nav-link:hover {
+  font-weight: bold;
+}
+
+.button-signup {
+  backface-visibility: hidden;
+  background: #FF881B;
+  border: 0;
+  border-radius: 10px;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1.01rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: auto;
+  padding: 0.7rem 1.35rem;
+  position: relative;
+  text-align: left;
+  text-decoration: none;
+  transform: translateZ(0) scale(1);
+  transition: transform 0.2s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  transition: background-color 0.5s, transform 0.5s;
+  position: relative;
+  right: 30px;
+}
+
+.button-signup:disabled {
+  color: #787878;
+  cursor: auto;
+}
+
+.button-signup:not(:disabled):hover {
+  background: #fff;
+  color: #ff4500;
+  transform: scale(1.02);
+}
+
+.button-signup:not(:disabled):hover:active {
+  transform: scale(1.002);
+}
+
+.button-signup:focus {
+  outline: 0 solid transparent;
+}
+
+.button-signup:focus:before {
+  border-width: 0.125rem;
+  content: "";
+  left: calc(-1 * 0.375rem);
+  pointer-events: none;
+  position: absolute;
+  top: calc(-1 * 0.375rem);
+  transition: border-radius;
+  user-select: none;
+}
+
+.button-signup:focus:not(:focus-visible) {
+  outline: 0 solid transparent;
+}
+
+.button-signup:not(:disabled):active {
+  transform: scale(1.02);
+}
